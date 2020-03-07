@@ -1,7 +1,7 @@
 #include <time.h>
 #include <iostream>
 
-//test commit
+//test
 
 int main ()
 {
