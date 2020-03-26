@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Thoma/CLionProjects/cpuTimerTest/main.cpp
+ctime
+-
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+sstream
+-
+algorithm
+-
+
